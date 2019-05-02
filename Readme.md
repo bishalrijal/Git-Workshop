@@ -3,8 +3,11 @@
 # Intro to Git Workshop
 
 #### Contact Info
-Instructor:  Bishal Rijal  
-Email:   bishalrijal110@gmail.com 
+Instructor: 
+* Bishal Rijal  
+Email:  bishalrijal110@gmail.com 
+* Hemanta Rijal  
+Email:  foreverhemanta221@gmail.com
 
 ### objective 
 

@@ -104,4 +104,42 @@ Changes to be committed:
         new file:   sample.html
 ```
 
+### git commit
+
+If your staging area is setup the way you want, you can commit your changes
+**If you change anything, then commit it!!**
+
+### what is Commit?
+
+it's a checkpoint, where you can come later if you need to.
+
+#### lets commit changes
+```bash 
+ git commit -m "sample is added"
+[master c68858e] sample is added
+ 1 file changed, 10 insertions(+)
+ create mode 100644 sample.html
+
+```
+
+### Time to make change in GitHub repo
+When you have your project at a point that you want to share, you have to push it.
+```bash 
+ git push origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 382 bytes | 191.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/bishalrijal/try-git.git
+   5572e17..c68858e  master -> master
+```
+#### What happenes when you pushed it?
+Now you've done backup to the server
+![gitcommit](images/commit.png)
+
+
+
+
 

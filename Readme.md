@@ -4,10 +4,10 @@
 
 #### Contact Info
 Instructor: 
-Bishal Rijal  
-Email:   bishalrijal110@gmail.com 
-Hemanta Rijal
-Email: foreverhemanta221@gmail.com
+* Bishal Rijal  
+Email:  bishalrijal110@gmail.com 
+* Hemanta Rijal  
+Email:  foreverhemanta221@gmail.com
 
 ### objective 
 
